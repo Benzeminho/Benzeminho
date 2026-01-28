@@ -11,12 +11,6 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Benzeminho&show_icons=true&theme=tokyonight"/>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Benzeminho.Benzeminho&"  />
 </div>
 
@@ -28,6 +22,12 @@
 ###
 
 <p align="left">I'm Pierre from Toulouse<br><br>- 🔭 I’m curreltly a student<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I play video games and dev some app</p>
+
+###
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Benzeminho&show_icons=true&theme=tokyonight"/>
+</div>
 
 ###
 
