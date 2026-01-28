@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Pierre from Toulouse<br><br>- 🔭 I’m curreltly a student<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I play video games and dev some app</p>
+<p align="center">I'm Pierre from Toulouse<br><br>- 🔭 I’m curreltly a student<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I play video games and dev some app</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
