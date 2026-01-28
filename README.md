@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-[![Benzeminho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benzeminho)](https://github.com/Benzeminho/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Benzeminho)](https://github.com/Benzeminho/github-readme-stats"/>
 </div>
 
 ###
