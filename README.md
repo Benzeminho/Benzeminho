@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there</h1>
 
 ###
 
@@ -17,21 +17,15 @@
 ###
 
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center"> About Me</h3>
 
 ###
 
-<p align="center">I'm Pierre from Toulouse<br><br>- 🔭 I’m curreltly a student<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I play video games and dev some app</p>
+<p align="center">I'm Pierre from Toulouse<br><br>- I’m curreltly a student<br>- I'm currently learning react<br>- In my free time I play video games and dev some app</p>
 
 ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Benzeminho&show_icons=true&theme=tokyonight"/>
-</div>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">Language and tools</h3>
 
 ###
 
