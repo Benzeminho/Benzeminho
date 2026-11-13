@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">I'm Pierre from Toulouse<br><br>- I’m curreltly a student<br>- I'm currently learning react<br>- In my free time I play video games and dev some app</p>
+<p align="center">I'm Pierre from DAX<br><br>- I’m curreltly a student<br>- In my free time I play video games and dev some app</p>
 
 ###
 
